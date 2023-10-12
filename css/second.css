@@ -1,0 +1,55 @@
+#filters1 {
+    margin-block: 10px;
+    text-align: center;
+    /* background-color: red; */
+  }
+  #filters1 button {
+    background-color:#DA9F5B;
+   
+    color: white;
+    border: none;
+    font-size: 14px;
+    padding: 8px 10px;
+    cursor: pointer;
+  }
+.buttoncart{
+ background-color: #DA9F5B;
+  color: white;
+  padding: 8px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+
+
+/* Your existing styles go here */
+
+/* Style for the cart icon */
+.cart-icon {
+  position: relative;
+  background-color: #DA9F5B;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+#divPrice{
+  background-color: #DA9F5B;
+  width: 12%;
+  height: 10%;
+  margin-inline: auto;
+  font-weight: bold;
+  font-size: large;
+}
+
+#remove{
+  background-color: #DA9F5B;
+  border: none;
+  
+}
